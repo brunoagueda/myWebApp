@@ -6,14 +6,14 @@ changelog:
   authors:
   - octocat
  categories:
-  - title: Breaking Changes
+ - title: Breaking Changes
    labels:
-    - Semver-Major
-    - breaking-change
-  - title: Exciting New Features
+   - Semver-Major
+   - breaking-change
+ - title: Exciting New Features
    labels:
-    - Semver-Minor
-    - enhancement
-  - title: Other Changes
+   - Semver-Minor
+   - enhancement
+ - title: Other Changes
    labels:
     - *
