@@ -5,7 +5,7 @@ changelog:
   - ignore-for-release
   authors:
   - octocat
-categories:
+ categories:
   - title: Breaking Changes 🛠
     labels:
       - Semver-Major
